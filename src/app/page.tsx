@@ -1,5 +1,5 @@
 export default function Home(){
   return <>
-  <div>ghulam chnage- updated </div>
+  <div>ghulam chnage- updated  </div>
   </>
 }
